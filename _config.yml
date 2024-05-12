@@ -24,7 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Disheng Tang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student\ncomputational neuroscience, complex network"
+  bio              :  |
+                      PhD student
+                      computational neuroscience, complex network
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
