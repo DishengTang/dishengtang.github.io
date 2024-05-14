@@ -24,9 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Disheng Tang"
   pronouns         : # example: "she/her"  
-  bio              :  |
-                      PhD student
-                      computational neuroscience, dynamic network
+  bio              :  PhD student | computational neuroscience, dynamic network
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
