@@ -21,7 +21,7 @@ repository               : "DishengTang/dishengtang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_avatar.jpg"
+  avatar           : "avatar_small.jpg"
   name             : "Disheng Tang"
   pronouns         : # example: "she/her"  
   bio              :  PhD student | computational neuroscience, dynamic network
