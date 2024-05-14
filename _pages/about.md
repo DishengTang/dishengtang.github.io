@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Disheng Tang, a PhD student in the School of Life Sciences at Tsinghua University. My research interests include computational neuroscience and dynamic network. I'm currently under the supervision of Prof. Xiaoxuan Jia. I'm interested in exploring how the dynamic interacting patterns of neurons encode the visual stimulus information.
+Hi! I'm Disheng Tang, a PhD student in the School of Life Sciences at Tsinghua University. My research interests include computational neuroscience and dynamic network. I'm currently under the supervision of Prof. Xiaoxuan Jia.
 
 Education and research background
 ======
@@ -15,7 +15,7 @@ I received both my M.Eng. and B.Eng. from the School of Electronic and Informati
 
 Research interest
 ======
-Currently at Jiaxx Lab led by Prof. Xiaoxuan Jia, I'm generally interested in
+Currently at Neural Coding Lab led by Prof. Xiaoxuan Jia, I'm generally interested in
 * encoding the visual information as dynamic networks of neurons;
 * controlling the brain network;
 * brain-inspired AI.
