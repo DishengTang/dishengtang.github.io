@@ -11,7 +11,7 @@ Hi! I'm Disheng Tang, a PhD student in the School of Life Sciences at Tsinghua U
 
 Education and research background
 ======
-I received both my M.Eng. and B.Eng. from the School of Electronic and Information Engineering at Beihang University. During my master's studies, I focused on the predictability of temporal networks, co-advised by Prof. Wenbo Du (Beihang Univ.) and Prof. Gang Yan (Tongji Univ.). Prior to the PhD program at Tsinghua Univ., I studied in the Quantitative Biosciences PhD program at Georgia Tech remotely for a year until my student visa application was refused due to Presidential Proclamation 10043. I was then co-advised by Prof. Hannah Choi (Gatech), Prof. Xiaoxuan Jia (Tsinghua Univ.), and Prof. Joel Zylberberg (York Univ.) on the project of stimulus-dependent functional network. 
+I received both my M.Eng. and B.Eng. from the School of Electronic and Information Engineering at Beihang University. During my master's studies, I focused on the predictability of temporal networks, co-advised by Prof. Wenbo Du (Beihang Univ.) and Prof. Gang Yan (Tongji Univ.). Prior to the PhD program at Tsinghua Univ., I studied in the Quantitative Biosciences PhD program at Georgia Tech remotely for a year until I got a visa issue. I was then co-advised by Prof. Hannah Choi (Gatech), Prof. Xiaoxuan Jia (Tsinghua Univ.), and Prof. Joel Zylberberg (York Univ.) on the project of stimulus-dependent functional network. 
 
 Research interest
 ======
