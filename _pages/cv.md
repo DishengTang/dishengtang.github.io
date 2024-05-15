@@ -41,6 +41,6 @@ Skills
 
 Awards
 ======
-* Furure Scholar Scholarship \vert Tsinghua University \vert 08/2023
-* VISTA Graduate Scholarship \vert York University \vert 06/2022
-* First Prize Scholarship of Outstanding Graduate Student \vert Beihang University \vert 11/2017
+* Furure Scholar Scholarship &#124; Tsinghua University &#124; 08/2023
+* VISTA Graduate Scholarship &#124; York University &#124; 06/2022
+* First Prize Scholarship of Outstanding Graduate Student &#124; Beihang University &#124; 11/2017
