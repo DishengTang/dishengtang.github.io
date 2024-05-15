@@ -41,10 +41,6 @@ Skills
 
 Awards
 ======
-* Furure Scholar Scholarship | Tsinghua University | 08/2023
-* VISTA Graduate Scholarship | York University | 06/2022
-* First Prize Scholarship of Outstanding Graduate Student | Beihang University | 11/2017
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Furure Scholar Scholarship \vert Tsinghua University \vert 08/2023
+* VISTA Graduate Scholarship \vert York University \vert 06/2022
+* First Prize Scholarship of Outstanding Graduate Student \vert Beihang University \vert 11/2017
