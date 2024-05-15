@@ -19,12 +19,12 @@ Work experience
 ======
 * Research Assistant
   * Tsinghua University
-  * Computational Neuroscience
+  * Computational neuroscience
   * 2022.10 - 2023.8
 
 * Research Intern
   * Huawei 2012 Lab
-  * Graph Neural Networks
+  * Graph neural networks
   * 2021.2 - 2022.8
 
 * Visiting Researcher (internship)
