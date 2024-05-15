@@ -11,53 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biology, Tsinghua University, 2027 (expected)
+* M.Eng. in Electronic and Communication Engineering, Beihang University, 2020
+* B.Eng. in Electronic and Communication Engineering, Beihang University, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Assistant
+  * Tsinghua University
+  * Computational Neuroscience
+  * 2022.10 - 2023.8
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Intern
+  * Huawei 2012 Lab
+  * Graph Neural Networks
+  * 2021.2 - 2022.8
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Visiting Researcher (internship)
+  * Microsoft Research Asia (MSRA)
+  * Epidemic modeling of COVID-19
+  * 2020.9 - 2021.2
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding: Python; MATLAB.
+* Quantitative analysis.
+* Mathematical modeling.
+* Academic writing.
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Furure Scholar Scholarship | Tsinghua University | 08/2023
+* VISTA Graduate Scholarship | York University | 06/2022
+* First Prize Scholarship of Outstanding Graduate Student | Beihang University | 11/2017
   
 Service and leadership
 ======
