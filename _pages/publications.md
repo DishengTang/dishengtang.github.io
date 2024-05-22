@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=U8zujDgAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</div>
-{% endif %}
+<div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=U8zujDgAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</div>
 
 * Wang, G., **Tang, D.**, Shatsila, A., & Zhang, X. (2023, October). MICA: multi-channel representation refinement contrastive learning for graph fraud detection. In Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data (pp. 31-46). Singapore: Springer Nature Singapore.
 * **Tang, D.**, Zylberberg, J., Jia, X., & Choi, H. (2023). Stimulus-dependent functional network topology in mouse visual cortex. bioRxiv.
